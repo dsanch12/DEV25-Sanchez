@@ -61,7 +61,7 @@ stateDiagram
     Victoria --> Menu_Victoria
     Derrota--> Menu_Muerte
     Menu_Muerte--> Niveles
-    Menu_Victoria--> Juego	
+    Menu_Victoria--> Menu_inicio
 ```
 
 #### Objetivo
@@ -110,8 +110,8 @@ graph LR;
 
 A continuacion se muestran los borradores del diseño de los niveles.
 
-![Borrador_nivel1](https://github.com/dsanch12/DEV25-Sanchez/tree/main/images/Borrador_Nivel1.jpeg)
-![Borrador_nivel2](https://github.com/dsanch12/DEV25-Sanchez/tree/main/images/Borrador_Nivel2.jpeg)
+![Borrador_nivel1](https://github.com/dsanch12/DEV25-Sanchez/blob/main/images/Borrador_Nivel1.jpeg)
+![Borrador_nivel2](https://github.com/dsanch12/DEV25-Sanchez/blob/main/images/Borrador_Nivel2.jpeg)
 
 
 ## Produccion
